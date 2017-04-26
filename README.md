@@ -1,4 +1,7 @@
-# test coverage for  [pug (v0.1.0)](http://jade-lang.com)  [![npm package](https://img.shields.io/npm/v/npmtest-pug.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pug) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pug.svg)](https://travis-ci.org/npmtest/node-npmtest-pug)
+# npmtest-pug
+
+#### basic test coverage for  [pug (v0.1.0)](http://jade-lang.com)  [![npm package](https://img.shields.io/npm/v/npmtest-pug.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pug) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pug.svg)](https://travis-ci.org/npmtest/node-npmtest-pug)
+
 #### A clean, whitespace-sensitive template language for writing HTML
 
 [![NPM](https://nodei.co/npm/pug.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pug)
@@ -7,11 +10,17 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-pug/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-pug/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pug/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pug/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pug/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pug/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-pug/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-pug/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pug/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pug/tree/gh-pages/build)|
+
+- [https://npmtest.github.io/node-npmtest-pug/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pug/build/coverage.html/index.html)
 
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-pug/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-pug/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-pug/build/test-report.html](https://npmtest.github.io/node-npmtest-pug/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-pug/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pug/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-pug/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-pug/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-pug/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pug/build/apidoc.html)
 
